@@ -2,7 +2,8 @@
 得意黑二创字体。
 具有倾斜趋势，修改倾斜角度为3°。
 新增若干字符，优化竖排特性。
-![寒蝉团圆圆](https://github.com/Warren2060/ChillReunion/assets/87366329/60b7d85c-78f0-4096-8879-1d8617bdb60b)
+![寒蝉团圆圆-01](https://github.com/Warren2060/ChillReunion/assets/87366329/9e11317e-b54f-40ff-9cf6-030e86a71fc1)
+
 
 ## 下载链接
 请查阅Releases。
